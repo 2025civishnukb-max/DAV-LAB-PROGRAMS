@@ -14,15 +14,15 @@ The experiments use popular Python libraries such as NumPy, Pandas, Matplotlib, 
 
 | No. | Program | Description |
 |:---:|---|---|
-| 01 | NumPy and Pandas | Array operations, DataFrame creation, indexing, slicing, and data manipulation. |
-| 02 | Exploratory Data Analysis (EDA) | Dataset inspection, descriptive statistics, missing value detection, and duplicate identification. |
-| 03 | Data Visualization | Histograms, box plots, scatter plots, pair plots, and correlation heatmaps. |
-| 04 | Data Preprocessing | Data cleaning, handling missing values, and preprocessing techniques. |
-| 05 | Data Analysis and Visualization | Statistical analysis and visualization of datasets. |
-| 06 | Feature Engineering | Normalization, standardization, feature transformation, and Principal Component Analysis (PCA). |
-| 07 | Regression Analysis | Regression modeling, statistical analysis, and model evaluation. |
-| 08 | Regression Analysis | Further implementation of regression techniques and related concepts. |
-| 09 | Regression Analysis | Additional regression experiments and statistical analysis. |
+| 01 | [Lab Program 1](Lab-1.ipynb) | NumPy and Pandas – Array operations, DataFrame creation, indexing, slicing, and data manipulation. |
+| 02 | [Lab Program 2](Lab-2.ipynb) | Exploratory Data Analysis – Dataset inspection, descriptive statistics, missing values, and duplicate identification. |
+| 03 | [Lab Program 3](Lab-3.ipynb) | Data Visualization – Histograms, box plots, scatter plots, pair plots, and correlation heatmaps. |
+| 04 | [Lab Program 4](Lab-4.ipynb) | Data Preprocessing – Data cleaning, handling missing values, and preprocessing techniques. |
+| 05 | [Lab Program 5](Lab-5.ipynb) | Data Analysis and Visualization – Statistical analysis and visualization of datasets. |
+| 06 | [Lab Program 6](Lab-6.ipynb) | Feature Engineering – Normalization, standardization, feature transformation, and PCA. |
+| 07 | [Lab Program 7](Lab-7.ipynb) | Regression Analysis – Regression modeling, statistical analysis, and model evaluation. |
+| 08 | [Lab Program 8](Lab-8.ipynb) | Regression Analysis – Further implementation of regression techniques and related concepts. |
+| 09 | [Lab Program 9](Lab-9.ipynb) | Regression Analysis – Additional regression experiments and statistical analysis. |
 
 ## 🛠️ Technologies and Libraries Used
 
@@ -115,13 +115,19 @@ DAV-LAB-PROGRAMS/
 
 ## 👨‍💻 Author
 
-**Vishnu K B**
+**Vishnu K **
 
 Computer Science and Engineering  
 (Artificial Intelligence and Machine Learning)
 
 The National Institute of Engineering (NIE), Mysuru
 
-## 🔗 Repository Link
+## 🔗 Repository
 
 [GitHub – DAV-LAB-PROGRAMS](https://github.com/2025civishnukb-max/DAV-LAB-PROGRAMS)
+
+---
+
+⭐ If you find this repository useful, feel free to explore the notebooks and learn from the implementations.
+
+*This repository is maintained for academic learning and laboratory reference.*
