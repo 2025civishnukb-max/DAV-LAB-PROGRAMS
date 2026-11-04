@@ -1,65 +1,61 @@
-# 📊 Data Analysis and Visualization Lab Programs
+# 📊 Data Analytics and Visualization Lab Programs
 
-<p align="center">
-  <b>DAV Lab | 3rd Semester CSE (AIML)</b>
-</p>
+A collection of Python-based laboratory programs for the **Data Analytics and Visualization (DAV) Lab – 3rd Semester, CSE (AIML)**.
 
-Welcome to the **Data Analysis and Visualization (DAV) Lab Programs** repository! This repository contains Python-based lab programs implemented using Jupyter Notebooks as part of the third-semester academic curriculum.
+This repository contains nine Jupyter Notebook programs covering fundamental concepts of data analytics, data manipulation, exploratory data analysis, data visualization, statistical analysis, data preprocessing, feature engineering, and regression.
 
-The repository serves as a reference for learning data analysis, visualization techniques, and practical Python programming.
+## 📌 About the Repository
 
----
+The objective of this repository is to gain practical experience in analyzing datasets, extracting meaningful insights, visualizing data, and applying statistical and machine learning techniques using Python.
 
-## 📚 Lab Programs
+The experiments use popular Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, SciPy, Statsmodels, and Scikit-learn.
 
-| Lab | Notebook |
-|:---:|----------|
-| 1 | [Lab-1](./Lab-1.ipynb) |
-| 2 | [Lab-2](./Lab-2.ipynb) |
-| 3 | [Lab-3](./Lab-3.ipynb) |
-| 4 | [Lab-4](./Lab-4.ipynb) |
-| 5 | [Lab-5](./Lab-5.ipynb) |
-| 6 | [Lab-6](./Lab-6.ipynb) |
-| 7 | [Lab-7](./Lab-7.ipynb) |
+## 📂 Programs List
 
-*Click on any notebook to view the program, code, and output directly on GitHub.*
+| No. | Program | Description |
+|:---:|---|---|
+| 01 | NumPy and Pandas | Array operations, DataFrame creation, indexing, slicing, and data manipulation. |
+| 02 | Exploratory Data Analysis (EDA) | Dataset inspection, descriptive statistics, missing value detection, and duplicate identification. |
+| 03 | Data Visualization | Histograms, box plots, scatter plots, pair plots, and correlation heatmaps. |
+| 04 | Data Preprocessing | Data cleaning, handling missing values, and preprocessing techniques. |
+| 05 | Data Analysis and Visualization | Statistical analysis and visualization of datasets. |
+| 06 | Feature Engineering | Normalization, standardization, feature transformation, and Principal Component Analysis (PCA). |
+| 07 | Regression Analysis | Regression modeling, statistical analysis, and model evaluation. |
+| 08 | Regression Analysis | Further implementation of regression techniques and related concepts. |
+| 09 | Regression Analysis | Additional regression experiments and statistical analysis. |
 
----
+## 🛠️ Technologies and Libraries Used
 
-## 🛠️ Technologies Used
+| Technology | Purpose |
+|---|---|
+| Python | Programming language |
+| Jupyter Notebook | Interactive development environment |
+| NumPy | Numerical computations and array manipulation |
+| Pandas | Data manipulation and analysis |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical data visualization |
+| SciPy | Scientific and statistical computing |
+| Statsmodels | Statistical modeling and analysis |
+| Scikit-learn | Data preprocessing and machine learning |
 
-- **Python** – Programming language
-- **Jupyter Notebook** – Interactive coding environment
-- **NumPy** – Numerical computations
-- **Pandas** – Data manipulation and analysis
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualization
-- **Scikit-learn** – Machine learning and data analysis
+## ⚙️ Installation and Setup
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Install Python and Jupyter Notebook on your system.
-
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/2025civishnukb-max/DAV-LAB-PROGRAMS.git
 ```
 
-### 2. Navigate to the project directory
+### 2. Navigate to the Repository
 
 ```bash
 cd DAV-LAB-PROGRAMS
 ```
 
-### 3. Install the required libraries
+### 3. Install Required Libraries
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels jupyter
+pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn jupyter
 ```
 
 ### 4. Launch Jupyter Notebook
@@ -68,9 +64,36 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels jupyt
 jupyter notebook
 ```
 
-Open the required lab notebook and execute the cells to explore the programs and their outputs.
+Open the required notebook and execute the cells sequentially.
 
----
+Alternatively, you can use Visual Studio Code or Google Colab to run the notebooks.
+
+## 📚 Concepts Covered
+
+- Numerical computing using NumPy.
+- Data manipulation using Pandas.
+- Exploratory Data Analysis (EDA).
+- Data cleaning and preprocessing.
+- Descriptive statistical analysis.
+- Data visualization using Matplotlib and Seaborn.
+- Feature scaling and normalization.
+- Principal Component Analysis (PCA).
+- Regression analysis.
+- Statistical modeling and interpretation.
+- Model evaluation and analysis.
+
+## 🎯 Learning Outcomes
+
+By completing these laboratory programs, students gain practical knowledge of:
+
+- Working with numerical and structured datasets.
+- Importing, cleaning, and transforming data.
+- Identifying patterns and relationships within datasets.
+- Creating meaningful data visualizations.
+- Applying statistical techniques to real-world datasets.
+- Performing feature engineering and dimensionality reduction.
+- Building and evaluating regression models.
+- Interpreting analytical results and drawing conclusions.
 
 ## 📁 Repository Structure
 
@@ -84,23 +107,21 @@ DAV-LAB-PROGRAMS/
 ├── Lab-5.ipynb
 ├── Lab-6.ipynb
 ├── Lab-7.ipynb
+├── Lab-8.ipynb
+├── Lab-9.ipynb
 │
 └── README.md
 ```
-
----
-
-## 🎯 Purpose
-
-- Maintain all DAV lab programs in one place.
-- Practice Python-based data analysis and visualization.
-- Understand statistical concepts through practical implementation.
-- Provide an accessible reference for academic learning and revision.
-
----
 
 ## 👨‍💻 Author
 
 **Vishnu K B**
 
-CSE (Artificial Intelligence and Machine Learning)
+Computer Science and Engineering  
+(Artificial Intelligence and Machine Learning)
+
+The National Institute of Engineering (NIE), Mysuru
+
+## 🔗 Repository Link
+
+[GitHub – DAV-LAB-PROGRAMS](https://github.com/2025civishnukb-max/DAV-LAB-PROGRAMS)
