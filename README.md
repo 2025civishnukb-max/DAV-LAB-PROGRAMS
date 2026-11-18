@@ -2,7 +2,7 @@
 
 A collection of Python-based laboratory programs for the **Data Analytics and Visualization (DAV) Lab – 3rd Semester, CSE (AIML)**.
 
-This repository contains ten Jupyter Notebook programs covering fundamental concepts of data analytics, data manipulation, exploratory data analysis, data visualization, statistical analysis, data preprocessing, feature engineering, and regression.
+This repository contains eleven Jupyter Notebook programs covering fundamental concepts of data analytics, data manipulation, exploratory data analysis, data visualization, statistical analysis, data preprocessing, feature engineering, and regression.
 
 ## 📌 About the Repository
 
@@ -26,6 +26,7 @@ All laboratory notebooks are organized inside the **[Lab Programs](Lab%20Program
 | 08 | [Lab Program 8](Lab%20Programs/Lab-08.ipynb) | Regression Analysis – Further implementation of regression techniques and related concepts. |
 | 09 | [Lab Program 9](Lab%20Programs/Lab-09.ipynb) | Regression Analysis – Additional regression experiments and statistical analysis. |
 | 10 | [Lab Program 10](Lab%20Programs/Lab-10.ipynb) | Customer Segmentation – Feature standardization and K-Means clustering using the Mall Customers dataset. |
+| 11 | [Lab Program 11](Lab%20Programs/Lab-11.ipynb) | Hierarchical Customer Clustering – Dendrogram generation and Agglomerative Clustering using Ward linkage on annual income and spending score. |
 
 ## 🛠️ Technologies and Libraries Used
 
@@ -95,7 +96,7 @@ By completing these laboratory programs, students gain practical knowledge of:
 - Creating meaningful data visualizations.
 - Applying statistical techniques to real-world datasets.
 - Performing feature engineering and dimensionality reduction.
-- Building and evaluating regression models.
+- Building and evaluating regression models.\n- Applying K-Means and hierarchical clustering for customer segmentation.\n- Interpreting dendrograms and cluster assignments.
 - Interpreting analytical results and drawing conclusions.
 
 ## 📁 Repository Structure
@@ -113,7 +114,7 @@ DAV-LAB-PROGRAMS/
 │   ├── Lab-07.ipynb
 │   ├── Lab-08.ipynb
 │   ├── Lab-09.ipynb
-│   └── Lab-10.ipynb
+│   ├── Lab-10.ipynb\n│   └── Lab-11.ipynb
 │
 ├── Experiential Learning/
 │
