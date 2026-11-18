@@ -2,7 +2,7 @@
 
 A collection of Python-based laboratory programs for the **Data Analytics and Visualization (DAV) Lab – 3rd Semester, CSE (AIML)**.
 
-This repository contains nine Jupyter Notebook programs covering fundamental concepts of data analytics, data manipulation, exploratory data analysis, data visualization, statistical analysis, data preprocessing, feature engineering, and regression.
+This repository contains ten Jupyter Notebook programs covering fundamental concepts of data analytics, data manipulation, exploratory data analysis, data visualization, statistical analysis, data preprocessing, feature engineering, and regression.
 
 ## 📌 About the Repository
 
@@ -16,15 +16,15 @@ All laboratory notebooks are organized inside the **[Lab Programs](Lab%20Program
 
 | No. | Program | Description |
 |:---:|---|---|
-| 01 | [Lab Program 1](Lab%20Programs/Lab-1.ipynb) | NumPy and Pandas – Array operations, DataFrame creation, indexing, slicing, and data manipulation. |
-| 02 | [Lab Program 2](Lab%20Programs/Lab-2.ipynb) | Exploratory Data Analysis – Dataset inspection, descriptive statistics, missing values, and duplicate identification. |
-| 03 | [Lab Program 3](Lab%20Programs/Lab-3.ipynb) | Data Visualization – Histograms, box plots, scatter plots, pair plots, and correlation heatmaps. |
-| 04 | [Lab Program 4](Lab%20Programs/Lab-4.ipynb) | Data Preprocessing – Data cleaning, handling missing values, and preprocessing techniques. |
-| 05 | [Lab Program 5](Lab%20Programs/Lab-5.ipynb) | Data Analysis and Visualization – Statistical analysis and visualization of datasets. |
-| 06 | [Lab Program 6](Lab%20Programs/Lab-6.ipynb) | Feature Engineering – Normalization, standardization, feature transformation, and PCA. |
-| 07 | [Lab Program 7](Lab%20Programs/Lab-7.ipynb) | Regression Analysis – Regression modeling, statistical analysis, and model evaluation. |
-| 08 | [Lab Program 8](Lab%20Programs/Lab-8.ipynb) | Regression Analysis – Further implementation of regression techniques and related concepts. |
-| 09 | [Lab Program 9](Lab%20Programs/Lab-9.ipynb) | Regression Analysis – Additional regression experiments and statistical analysis. |
+| 01 | [Lab Program 1](Lab%20Programs/Lab-01.ipynb) | NumPy and Pandas – Array operations, DataFrame creation, indexing, slicing, and data manipulation. |
+| 02 | [Lab Program 2](Lab%20Programs/Lab-02.ipynb) | Exploratory Data Analysis – Dataset inspection, descriptive statistics, missing values, and duplicate identification. |
+| 03 | [Lab Program 3](Lab%20Programs/Lab-03.ipynb) | Data Visualization – Histograms, box plots, scatter plots, pair plots, and correlation heatmaps. |
+| 04 | [Lab Program 4](Lab%20Programs/Lab-04.ipynb) | Data Preprocessing – Data cleaning, handling missing values, and preprocessing techniques. |
+| 05 | [Lab Program 5](Lab%20Programs/Lab-05.ipynb) | Data Analysis and Visualization – Statistical analysis and visualization of datasets. |
+| 06 | [Lab Program 6](Lab%20Programs/Lab-06.ipynb) | Feature Engineering – Normalization, standardization, feature transformation, and PCA. |
+| 07 | [Lab Program 7](Lab%20Programs/Lab-07.ipynb) | Regression Analysis – Regression modeling, statistical analysis, and model evaluation. |
+| 08 | [Lab Program 8](Lab%20Programs/Lab-08.ipynb) | Regression Analysis – Further implementation of regression techniques and related concepts. |
+| 09 | [Lab Program 9](Lab%20Programs/Lab-09.ipynb) | Regression Analysis – Additional regression experiments and statistical analysis. |
 
 ## 🛠️ Technologies and Libraries Used
 
@@ -103,15 +103,16 @@ By completing these laboratory programs, students gain practical knowledge of:
 DAV-LAB-PROGRAMS/
 │
 ├── Lab Programs/
-│   ├── Lab-1.ipynb
-│   ├── Lab-2.ipynb
-│   ├── Lab-3.ipynb
-│   ├── Lab-4.ipynb
-│   ├── Lab-5.ipynb
-│   ├── Lab-6.ipynb
-│   ├── Lab-7.ipynb
-│   ├── Lab-8.ipynb
-│   └── Lab-9.ipynb
+│   ├── Lab-01.ipynb
+│   ├── Lab-02.ipynb
+│   ├── Lab-03.ipynb
+│   ├── Lab-04.ipynb
+│   ├── Lab-05.ipynb
+│   ├── Lab-06.ipynb
+│   ├── Lab-07.ipynb
+│   ├── Lab-08.ipynb
+│   ├── Lab-09.ipynb
+│   └── Lab-10.ipynb
 │
 ├── Experiential Learning/
 │
