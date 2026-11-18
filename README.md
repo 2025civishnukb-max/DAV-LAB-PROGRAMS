@@ -25,6 +25,7 @@ All laboratory notebooks are organized inside the **[Lab Programs](Lab%20Program
 | 07 | [Lab Program 7](Lab%20Programs/Lab-07.ipynb) | Regression Analysis – Regression modeling, statistical analysis, and model evaluation. |
 | 08 | [Lab Program 8](Lab%20Programs/Lab-08.ipynb) | Regression Analysis – Further implementation of regression techniques and related concepts. |
 | 09 | [Lab Program 9](Lab%20Programs/Lab-09.ipynb) | Regression Analysis – Additional regression experiments and statistical analysis. |
+| 10 | [Lab Program 10](Lab%20Programs/Lab-10.ipynb) | Customer Segmentation – Feature standardization and K-Means clustering using the Mall Customers dataset. |
 
 ## 🛠️ Technologies and Libraries Used
 
